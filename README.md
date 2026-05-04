@@ -57,4 +57,4 @@ npm run start
 
 ## Deploy on Vercel
 
-Push this project to GitHub and import it into Vercel.
+Deployed on vercel.
